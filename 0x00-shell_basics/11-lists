@@ -1,6 +1,2 @@
 #!/bin/bash
-ls -al
-cd ..
-ls -al
-cd /boot
-ls -al
+ls -a cd ../ ls -a cd /boot ls -la
